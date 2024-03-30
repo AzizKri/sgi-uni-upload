@@ -1,0 +1,78 @@
+Python
+Java
+JavaScript
+C++
+Objective-C
+Cocoa
+iOS
+MVC
+MVVM
+UIKit
+Core Animation
+Autolayout
+Size Classes
+SnapKit
+Core Location
+MapKit
+AVFoundation
+StoreKit
+AddressBook
+EventKit
+CallKit
+SiriKit
+Core Bluetooth
+Coding standards
+Security
+Unit testing
+Documentation standards
+Agile methodology
+Technical architecture
+Design systems
+Technology benchmarking
+Android
+Kotlin
+Android SDK
+Security Modules
+Jetpack libraries
+API design
+Clean code
+Android Architecture Components
+Google Play Store
+Microservices
+Memory management
+Caching mechanisms
+CI/CD principles
+Distributed services
+Problem solving
+Algorithms
+Data Structure
+Clean Architecture
+DI (Dependency Injection)
+Functional Programming
+Firebase
+Source code management (GitHub, GitLab, BitBucket)
+NodeJS
+Backend Developer
+Serverless
+Cloud platforms (AWS, Azure, GCP)
+TypeScript
+SQL
+NoSQL
+MySQL
+PostgreSQL
+Elasticsearch
+MongoDB
+Firebase Realtime Database
+Task queues (AWS SQS, AWS SNS, Cloud Pub/Sub, Celery, RabbitMQ)
+RESTful
+GIT (GitLab, BitBucket, GitHub)
+Docker (Containers, Openshift)
+Server Side
+Restful Services (Microservices, Monolithic Services)
+HTML5
+CSS3
+React
+Redux
+Frontend Design
+Flutter
+Xamarin
