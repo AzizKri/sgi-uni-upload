@@ -47,14 +47,21 @@ Problem solving
 Algorithms
 Data Structure
 Clean Architecture
-DI (Dependency Injection)
+DI
+Dependency Injection
 Functional Programming
 Firebase
-Source code management (GitHub, GitLab, BitBucket)
+Source code management
+GitHub
+GitLab
+BitBucket
 NodeJS
 Backend Developer
 Serverless
-Cloud platforms (AWS, Azure, GCP)
+Cloud platforms
+AWS
+Azure
+GCP
 TypeScript
 SQL
 NoSQL
@@ -63,12 +70,24 @@ PostgreSQL
 Elasticsearch
 MongoDB
 Firebase Realtime Database
-Task queues (AWS SQS, AWS SNS, Cloud Pub/Sub, Celery, RabbitMQ)
+Task queues
+AWS SQS
+AWS SNS
+Cloud Pub/Sub
+Celery
+RabbitMQ
 RESTful
-GIT (GitLab, BitBucket, GitHub)
-Docker (Containers, Openshift)
+GIT
+GitLab
+BitBucket
+GitHub
+Docker
+Containers
+Openshift
 Server Side
-Restful Services (Microservices, Monolithic Services)
+Restful Services
+Microservices
+Monolithic Services
 HTML5
 CSS3
 React
